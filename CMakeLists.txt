@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0)
 
-project(cub VERSION 1.1) # see README:Version
+project(cub VERSION 1.7.4)
 
 add_library(cub INTERFACE)
 set(cub_inc_dir "${CMAKE_CURRENT_LIST_DIR}")
